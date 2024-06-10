@@ -5,6 +5,6 @@ ome
 #to efficiently run the program you have to install the neccesary dependencies to do so follow the steps
 
 /* open the folder where you have imported it and run the following */
-> npm i
-> cd folder_name
-> npm run dev
+ npm i
+ cd folder_name
+ npm run dev
